@@ -1,6 +1,6 @@
 gunicorn
 flask
-tensorflow
-Keras
+tensorflow==2.15.0
+Keras==2.15.0
 pillow
 numpy
